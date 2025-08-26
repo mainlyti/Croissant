@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+h1,
+h2 {
+  color: brown;
+}
+
+.link {
+  padding: 20px;
+  color: teal;
+}
+
+img {
+  width: 600px;
+}
